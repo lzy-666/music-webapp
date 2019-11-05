@@ -1,6 +1,6 @@
 # musicto
 
-> A Vue.js project
+有缘音乐手机端app源码
 
 ## Build Setup
 
